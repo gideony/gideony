@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gideonywork@gmail.com)
 
 ![Gideony GitHub stats](https://github-readme-stats.vercel.app/api?username=gideony&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu estou estudando
