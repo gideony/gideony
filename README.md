@@ -5,9 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gideony/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gideonywork@gmail.com)
 
-![Gideony GitHub stats](https://github-readme-stats.vercel.app/api?username=gideony&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Gideony GitHub stats](https://github-readme-stats.vercel.app/api?username=gideony&show_icons=true&theme=dark)
 ## Tecnologias que eu estou estudando
 
 <div style="display: inline_block">
