@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+seja+bem-vindo%2C+me+chamo+Gideony🖖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=8E00F7&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo%2C+me+chamo+Gideony)](https://git.io/typing-svg)
+
+<div>🖖</div>
+<br>
 
 [![LinkeInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonyewerton/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gideony/)
