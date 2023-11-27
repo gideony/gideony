@@ -36,6 +36,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gideony/gideony/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gideony/count.svg?"  />
+</div>
 
 ###
