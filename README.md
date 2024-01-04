@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gideony and I'm a front-end developer.</p>
+<p align="left">My name is Gideony and I'm developer.</p>
 
 ###
 
