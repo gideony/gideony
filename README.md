@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Gideony and I'm developer.</p>
+<p align="left">Seja Bem-Vindo.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Atualmente estou aprendendo: (JAVA)<br>🎯 Objetivos: Garantir segurança e performance<br>🎲 Curiosidade: Desenvolvedores backend são responsáveis por garantir que sistemas complexos funcionem corretamente nos bastidores, focando em segurança, gestão de dados e escalabilidade para suportar milhões de usuários.</p>
 
 ###
 
