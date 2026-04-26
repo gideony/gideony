@@ -1,43 +1,40 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+# Olá! 👋 Bem-vindo ao meu perfil
 
-###
+## Sobre mim
 
-<p align="left">Seja Bem-Vindo.</p>
+📚 **Estudando:** Java (Backend)  
+🎯 **Objetivo:** Garantir segurança e performance em sistemas escaláveis  
 
-###
+> Desenvolvedores backend são responsáveis por garantir que sistemas complexos funcionem corretamente nos bastidores, focando em segurança, gestão de dados e escalabilidade para suportar milhões de usuários.
 
-<h2 align="left">Sobre mim</h2>
+---
 
-###
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">📚 Atualmente estou aprendendo: (JAVA)<br>🎯 Objetivos: Garantir segurança e performance<br>🎲 Curiosidade: Desenvolvedores backend são responsáveis por garantir que sistemas complexos funcionem corretamente nos bastidores, focando em segurança, gestão de dados e escalabilidade para suportar milhões de usuários.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+### Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </div>
 
-###
+### Backend & DevOps
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gideony/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gideony/count.svg" alt="Contador de visitas" />
 </div>
-
-###
